@@ -1,6 +1,8 @@
-# Numpy
+<p align="center">
+<h1 id="Numpy" align="center">Numpy</h1>
+</p>
+<div style="text-align:center"><img src="https://repository-images.githubusercontent.com/280190711/e6de8f80-c7a8-11ea-92bd-0e38b0acb258" /></div>
 
-![](https://repository-images.githubusercontent.com/280190711/e6de8f80-c7a8-11ea-92bd-0e38b0acb258)
 
 
 
